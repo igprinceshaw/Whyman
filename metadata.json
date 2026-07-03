@@ -1,0 +1,6 @@
+{
+  "name": "Cosmic Dodge",
+  "description": "An action-packed cosmic synthwave retro space runner. Dodge asteroids, collect energy power-ups, and top the leaderboard!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
